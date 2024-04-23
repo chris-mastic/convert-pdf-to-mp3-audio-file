@@ -1,4 +1,4 @@
-# Convert PDF to MP3 Audio File
+# convert-pdf-to-mp3-audio-file
 
 ## Overview
 A simple script that will convert a PDF into an mp3 audio file.
